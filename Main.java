@@ -1,0 +1,4 @@
+pubblic my class {
+
+
+}
